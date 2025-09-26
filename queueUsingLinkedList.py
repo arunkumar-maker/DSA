@@ -6,7 +6,7 @@ class Node:
 
 class Queue:
     def __init__(self):
-        self.head = None
+        self.head = None 
 
     def is_empty(self):
         """Check if the queue is empty or not."""
